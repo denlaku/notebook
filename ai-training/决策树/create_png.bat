@@ -1,0 +1,1 @@
+dot -Tpong iris.dot -o iris.png
